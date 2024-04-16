@@ -21,5 +21,4 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Mr.Rudraraj;BOT+WAS+COMMING+SOON" alt="Typing SVG" /></a>
 <h1 align="center">
-#Rudra
-Hello, World !![gwyneth-balucio-hello-world](https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif)
+
